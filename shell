@@ -1,3 +1,1 @@
-echo"message"
-echo"Hi"
-echo"keerthi"
+yum install httpd
